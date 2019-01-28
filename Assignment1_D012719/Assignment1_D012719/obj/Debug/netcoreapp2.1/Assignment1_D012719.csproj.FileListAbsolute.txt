@@ -1,0 +1,11 @@
+C:\Users\rdasari\Desktop\USF_MS_BAIS\DIS\VS_Projects\Assignment1_D012719\Assignment1_D012719\bin\Debug\netcoreapp2.1\Assignment1_D012719.deps.json
+C:\Users\rdasari\Desktop\USF_MS_BAIS\DIS\VS_Projects\Assignment1_D012719\Assignment1_D012719\bin\Debug\netcoreapp2.1\Assignment1_D012719.runtimeconfig.json
+C:\Users\rdasari\Desktop\USF_MS_BAIS\DIS\VS_Projects\Assignment1_D012719\Assignment1_D012719\bin\Debug\netcoreapp2.1\Assignment1_D012719.runtimeconfig.dev.json
+C:\Users\rdasari\Desktop\USF_MS_BAIS\DIS\VS_Projects\Assignment1_D012719\Assignment1_D012719\bin\Debug\netcoreapp2.1\Assignment1_D012719.dll
+C:\Users\rdasari\Desktop\USF_MS_BAIS\DIS\VS_Projects\Assignment1_D012719\Assignment1_D012719\bin\Debug\netcoreapp2.1\Assignment1_D012719.pdb
+C:\Users\rdasari\Desktop\USF_MS_BAIS\DIS\VS_Projects\Assignment1_D012719\Assignment1_D012719\obj\Debug\netcoreapp2.1\Assignment1_D012719.csprojAssemblyReference.cache
+C:\Users\rdasari\Desktop\USF_MS_BAIS\DIS\VS_Projects\Assignment1_D012719\Assignment1_D012719\obj\Debug\netcoreapp2.1\Assignment1_D012719.csproj.CoreCompileInputs.cache
+C:\Users\rdasari\Desktop\USF_MS_BAIS\DIS\VS_Projects\Assignment1_D012719\Assignment1_D012719\obj\Debug\netcoreapp2.1\Assignment1_D012719.AssemblyInfoInputs.cache
+C:\Users\rdasari\Desktop\USF_MS_BAIS\DIS\VS_Projects\Assignment1_D012719\Assignment1_D012719\obj\Debug\netcoreapp2.1\Assignment1_D012719.AssemblyInfo.cs
+C:\Users\rdasari\Desktop\USF_MS_BAIS\DIS\VS_Projects\Assignment1_D012719\Assignment1_D012719\obj\Debug\netcoreapp2.1\Assignment1_D012719.dll
+C:\Users\rdasari\Desktop\USF_MS_BAIS\DIS\VS_Projects\Assignment1_D012719\Assignment1_D012719\obj\Debug\netcoreapp2.1\Assignment1_D012719.pdb
