@@ -31,11 +31,18 @@ namespace Assignment1_D012719
             int[] arr = new int[] { 1, 2, 3, 2, 2, 1, 3, 2 };
             computeFrequency(arr);
 
+
             // write your self-reflection here as a comment
-            Console.WriteLine("--------------------------------------------------------------------");
-            Console.WriteLine("Raghav Dasari");
-            Console.WriteLine("--------------------------------------------------------------------");
-            Console.ReadLine();
+            /*I was new to programming and new to .NET
+             * This assignment gave me the opportunity to learn basics of .NET 
+             * Basics of programming skills
+             * Also it gave me opportunity to learn how to use different methods and get the required output
+             * This assignment gave me opportunity to learn how to create a git repository
+             * How to clone git repository to local
+             * How to push the code the git repository from local
+             * Learnt about github, gitbash and github desktop usage to pull and push the code
+             */
+            
 
         }
 
