@@ -43,29 +43,14 @@ namespace Assignment1_D012719
         {
             try
             {
-
-                int num, i, ctr;
                 Console.Write("The prime numbers between {0} and {1} are : \n", x, y);
-
-                for (num = x; num <= y; num++)
+                //loop for iterating through each number between the range
+                for (int num = x; num <= y; num++)
                 {
-                    ctr = 0;
-                    if (num > 0)
-                    {
-                        for (i = 2; i <= num / 2; i++)
-                        {
-                            if (num % i == 0)
-                            {
-                                ctr++;
-                                break;
-                            }
-                        }
-                        if (ctr == 0 && num != 1)
-                            Console.Write("{0} ", num);
-                    }
-
+                    //Method for checking if a number is prime or not
+                    isPrime(num);
                 }
-                Console.Write("\n");
+                Console.WriteLine();
 
             }
             catch
@@ -213,6 +198,37 @@ namespace Assignment1_D012719
                 result = result * i;
             }
             return result;
+        }
+        public static void isPrime(int n)
+        {
+            /* we divide n by 2 to n/2 and see if the reminder becomes 0 or not and accordingly we increase the counter and in the end if the counter
+             * value is 0 and if the number n is not 1 then it is a prime number */
+            try
+            {
+                int i, ctr;
+                ctr = 0;
+                if (n > 0)
+                {
+                    for (i = 2; i <= n / 2; i++)
+                    {
+                        if (n % i == 0)
+                        {
+                            ctr++;
+                            break;
+                        }
+                    }
+                    if (ctr == 0 && n != 1)
+                    {
+                        Console.Write("{0} ", n);
+                    }
+
+                }
+            }
+            catch
+            {
+                Console.WriteLine("Exception occured while computing isPrime");
+            }
+
         }
     }
 }
